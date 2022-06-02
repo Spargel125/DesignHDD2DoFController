@@ -1,2 +1,2 @@
-addpath('DesignController')
+addpath('mysrc')
 addpath('HDDBenchmarkProblem')
